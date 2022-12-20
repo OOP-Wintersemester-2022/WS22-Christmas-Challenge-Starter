@@ -1,4 +1,4 @@
-# Weihnachts-Challenge WS2021
+# Weihnachts-Challenge WS2022
 
 ## Allgemeine Informationen
 
